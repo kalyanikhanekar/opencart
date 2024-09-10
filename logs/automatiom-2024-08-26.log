@@ -1,0 +1,5 @@
+12:15:37.955 [main] INFO  testCases.TC002_LoginTest - ***********************Clicked Login Button*****************
+18:16:10.441 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Strting registration test case*************
+18:16:16.962 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked account link*************
+18:16:23.324 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked registraion link*************
+18:16:34.114 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed

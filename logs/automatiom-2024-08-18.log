@@ -1,0 +1,5 @@
+23:12:46.993 [main] INFO  testCases.TC002_LoginTest - ***********************Clicked My Account*****************
+23:12:53.555 [main] INFO  testCases.TC002_LoginTest - ***********************Clicked Login Button*****************
+12:46:13.531 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Strting registration test case*************
+12:46:20.630 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked account link*************
+12:46:26.319 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked registraion link*************

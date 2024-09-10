@@ -1,0 +1,5 @@
+17:16:45.490 [main] INFO  testCases.TC003_LoginDDT - ***********************isMyAccountPageExists()*****************
+17:16:45.492 [main] INFO  testCases.TC003_LoginDDT - ***********************Finishe Login Test*****************
+17:17:29.043 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Strting registration test case*************
+17:17:35.914 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked account link*************
+17:17:41.137 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Clicked registraion link*************
